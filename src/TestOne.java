@@ -8,4 +8,9 @@ public class TestOne {
 		
 	}
 	
+	
+	@Test
+	public void testSomethingElse(){
+		
+	}
 }
